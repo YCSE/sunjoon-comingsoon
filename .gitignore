@@ -1,0 +1,17 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Development
+node_modules/
+*.log
+firebase-debug.log
+
+# Local
+*.local
